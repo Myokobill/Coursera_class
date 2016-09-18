@@ -119,13 +119,24 @@ a {
 	margin-bottom: 25px;
 }
 
+.our_menu a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+
 .menu_items {
 	font-size: 24px;
 	font-weight: bold;
 	color: black;
 	text-align: center;
-
 }
+
+.menu_items a:hover {
+	text-decoration: none;
+	color: #000;
+}
+
 
 .menutext {
 	font-family: sans-serif;
